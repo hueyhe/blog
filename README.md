@@ -10,3 +10,6 @@ Technical tutorials & troubleshooting posts & notes of best practices.
 
 - Typescript
   - [Duplicated type define with typescript while using `yarn link`](https://github.com/hueyhe/blog/issues/1)
+  
+- Network
+  - [OSI (Open System Interconnection) Model - 7 Layers](https://github.com/hueyhe/blog/issues/4)
