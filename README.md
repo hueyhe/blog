@@ -4,7 +4,7 @@ Technical tutorials & troubleshooting posts & notes of best practices.
 
 ## Table of contents
 
-- Containerization
+- [Containerization](https://github.com/hueyhe/blog/issues?q=is%3Aissue+is%3Aopen+label%3AContainerization)
   - [Deploy docker service on minikube](https://github.com/hueyhe/blog/issues/3)
   - [Minikube & private docker image on docker hub](https://github.com/hueyhe/blog/issues/2)
   - [Deploy nginx service on kubernetes with custom configuration](https://github.com/hueyhe/blog/issues/5)
@@ -12,8 +12,8 @@ Technical tutorials & troubleshooting posts & notes of best practices.
   - [Set up Ingress on Minikube with the NGINX Ingress Controller](https://github.com/hueyhe/blog/issues/7)
   - [Tutorial - How to use commandline to deploy a scalable web application on GKE](https://github.com/hueyhe/blog/issues/8)
 
-- Typescript
+- [Typescript](https://github.com/hueyhe/blog/issues?q=is%3Aissue+is%3Aopen+label%3ATypescript)
   - [Duplicated type define with typescript while using `yarn link`](https://github.com/hueyhe/blog/issues/1)
   
-- Network
+- [Network](https://github.com/hueyhe/blog/issues?q=is%3Aissue+is%3Aopen+label%3ANetwork)
   - [OSI (Open System Interconnection) Model - 7 Layers](https://github.com/hueyhe/blog/issues/4)
