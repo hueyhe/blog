@@ -18,3 +18,5 @@ Technical tutorials & troubleshooting posts & notes of best practices.
   
 - [Network](https://github.com/hueyhe/blog/issues?q=is%3Aissue+is%3Aopen+label%3ANetwork)
   - [OSI (Open System Interconnection) Model - 7 Layers](https://github.com/hueyhe/blog/issues/4)
+  
+- [Technique Q & A](https://github.com/hueyhe/blog/issues/10)
