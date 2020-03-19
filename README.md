@@ -23,5 +23,7 @@ Technical tutorials & troubleshooting posts & notes of best practices.
   - [Set up Ingress on Minikube with the NGINX Ingress Controller](https://github.com/hueyhe/blog/issues/7)
   - [Tutorial - How to use commandline to deploy a scalable web application on GKE](https://github.com/hueyhe/blog/issues/8)
   - [Using Google-managed SSL certificates on Ingress](https://github.com/hueyhe/blog/issues/9)
+
+- [Algorithms](https://github.com/hueyhe/blog/issues/14)
   
 - [Technique Q & A](https://github.com/hueyhe/blog/issues/10)
