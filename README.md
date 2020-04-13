@@ -14,6 +14,8 @@ Technical tutorials & troubleshooting posts & notes of best practices.
   
 - [Containerization](https://github.com/hueyhe/blog/issues/16)
 
+- [Computing](https://github.com/hueyhe/blog/issues/21)
+
 - [Algorithms](https://github.com/hueyhe/blog/issues/14)
   
 - [Technique Q & A](https://github.com/hueyhe/blog/issues/10)
