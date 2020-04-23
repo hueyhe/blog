@@ -18,3 +18,5 @@ Technical tutorials & troubleshooting posts & notes of best practices.
 - [Algorithms](https://github.com/hueyhe/blog/issues/14)
   
 - [Technique Q & A](https://github.com/hueyhe/blog/issues/10)
+
+- [Unfinished Blog Posts](https://github.com/hueyhe/blog/labels/Unfinished)
