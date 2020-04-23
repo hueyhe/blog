@@ -6,8 +6,7 @@ Technical tutorials & troubleshooting posts & notes of best practices.
 
 - [Programming](https://github.com/hueyhe/blog/issues/17)
   
-- [Network](https://github.com/hueyhe/blog/issues?q=is%3Aissue+is%3Aopen+label%3ANetwork)
-  - [OSI (Open System Interconnection) Model - 7 Layers](https://github.com/hueyhe/blog/issues/4)
+- [Network](https://github.com/hueyhe/blog/issues/26)
   
 - [Database](https://github.com/hueyhe/blog/labels/Database)
   - [Durability](https://github.com/hueyhe/blog/issues/11)
