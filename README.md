@@ -8,8 +8,7 @@ Technical tutorials & troubleshooting posts & notes of best practices.
   
 - [Network](https://github.com/hueyhe/blog/issues/26)
   
-- [Database](https://github.com/hueyhe/blog/labels/Database)
-  - [Durability](https://github.com/hueyhe/blog/issues/11)
+- [Database](https://github.com/hueyhe/blog/issues/31)
   
 - [Containerization](https://github.com/hueyhe/blog/issues/16)
 
